@@ -1,0 +1,48 @@
+{
+  "atom": {
+    "rewriteTsconfig": true
+  },
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "filesGlob": [
+    "**/*.ts"
+  ],
+  "files": [
+    "both/collections/users.collection.ts",
+    "both/models/user.model.ts",
+    "client/imports/app/app.component.web.ts",
+    "client/imports/app/app.module.ts",
+    "client/imports/app/app.routes.ts",
+    "client/imports/app/auth/index.ts",
+    "client/imports/app/auth/login.component.web.ts",
+    "client/imports/app/auth/recover.component.ts",
+    "client/imports/app/auth/signup.component.ts",
+    "client/imports/app/home/home.component.ts",
+    "client/imports/app/home/index.ts",
+    "client/imports/app/shared-components/logged-user.ts",
+    "client/imports/app/shared/display-name.pipe.ts",
+    "client/imports/app/shared/index.ts",
+    "client/main.ts",
+    "server/main.ts",
+    "typings.d.ts"
+  ],
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "angularCompilerOptions": {
+    "genDir": "aot",
+    "skipMetadataEmit": true
+  }
+}
