@@ -1,10 +1,10 @@
-<a href="//david-dm.org/0mkara/meteor-angular2-material2-base"><img src="https://david-dm.org/0mkara/meteor-angular2-material2-base.svg" alt="Dependency Status"></a>
-<a href="//david-dm.org/0mkara/meteor-angular2-material2-base/?type=dev"><img src="https://david-dm.org/0mkara/meteor-angular2-material2-base/dev-status.svg" alt="devDependency Status"></a>
+<a href="//david-dm.org/0mkara/meteor-ng-material-baby"><img src="//david-dm.org/0mkara/meteor-ng-material-baby.svg" alt="Dependency Status"></a>
+<a href="//david-dm.org/0mkara/meteor-ng-material-baby/?type=dev"><img src="//david-dm.org/0mkara/meteor-ng-material-baby/dev-status.svg" alt="devDependency Status"></a>
 ## Meteor app for browsers with user system.
 
 ### Start writing your app right after cloning and installing npm dependencies
 ```
-git clone git@github.com:0mkara/meteor-angular2-material2-base.git
+git clone git@github.com:0mkara/meteor-ng-material-baby.git
 meteor npm install
 meteor
 ```
