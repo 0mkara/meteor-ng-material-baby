@@ -1,5 +1,5 @@
-<a href="//david-dm.org/0mkara/meteor-ng-material-baby"><img src="//david-dm.org/0mkara/meteor-ng-material-baby.svg" alt="Dependency Status"></a>
-<a href="//david-dm.org/0mkara/meteor-ng-material-baby/?type=dev"><img src="//david-dm.org/0mkara/meteor-ng-material-baby/dev-status.svg" alt="devDependency Status"></a>
+<a href="//david-dm.org/0mkara/meteor-ng-material-baby"><img src="https://david-dm.org/0mkara/meteor-ng-material-baby.svg" alt="Dependency Status"></a>
+<a href="//david-dm.org/0mkara/meteor-ng-material-baby/?type=dev"><img src="https://david-dm.org/0mkara/meteor-ng-material-baby/dev-status.svg" alt="devDependency Status"></a>
 ## Meteor app for browsers with user system.
 
 ### Start writing your app right after cloning and installing npm dependencies
